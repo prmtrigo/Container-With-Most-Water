@@ -1,0 +1,15 @@
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\bin\Debug\net7.0\Container-With-Most-Water.exe
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\bin\Debug\net7.0\Container-With-Most-Water.deps.json
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\bin\Debug\net7.0\Container-With-Most-Water.runtimeconfig.json
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\bin\Debug\net7.0\Container-With-Most-Water.dll
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\bin\Debug\net7.0\Container-With-Most-Water.pdb
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.csproj.AssemblyReference.cache
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.AssemblyInfoInputs.cache
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.AssemblyInfo.cs
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.csproj.CoreCompileInputs.cache
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.dll
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\refint\Container-With-Most-Water.dll
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.pdb
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\Container-With-Most-Water.genruntimeconfig.cache
+C:\Users\trigo\Programação\C#\Container-With-Most-Water\obj\Debug\net7.0\ref\Container-With-Most-Water.dll
